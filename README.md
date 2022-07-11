@@ -37,6 +37,6 @@ Use their store
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/lunar-theme/template/graphs/contributors).
 
-[![Pukimaa](https://avatars.githubusercontent.com/u/58347116?v=4)](https://github.com/Pukimaa) |
+[![Pukimaa](https://avatars.githubusercontent.com/u/58347116?v=4&size=128)](https://github.com/Pukimaa) |
 --- |
 |[Pukimaa](https://github.com/Pukimaa) |
