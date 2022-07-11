@@ -18,13 +18,13 @@
 Use their store
 
 ### Powercord
-*Replace lowercase `powercord` with your path to powercord (where you cloned their repo)
+*Replace lowercase `powercord` with your path to powercord (where you cloned their repo)*
 1. `cd powercord/src/Powercord/themes`
 2. `git clone https://github.com/lunar-theme/discord`
 3. Restart your client
 
 ### Vizality
-*Replace `vizality` with your path to Vizality (where you cloned their repo)
+*Replace `vizality` with your path to Vizality (where you cloned their repo)*
 1. `cd vizality/addons/themes`
 2. `git clone https://github.com/lunar-theme/discord`
 3. Restart your client
