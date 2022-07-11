@@ -9,10 +9,10 @@
 ### BetterDiscord
 1. Download [this file](https://lunar-theme.github.io/discord/lunar.theme.css) (`ctrl` + `s` on the site)
 2. Place the file into:
-    - Windows: %AppData%\betterdiscord\themes
-    - Linux: ~/.config/BetterDiscord/themes
-    - Mac: ~/Library/Application Support/betterdiscord/themes
-3. In Discord go into `Usersettings > Themes`` and activate *Lunar*
+    - Windows: `%AppData%\betterdiscord\themes`
+    - Linux: `~/.config/BetterDiscord/themes`
+    - Mac: `~/Library/Application Support/betterdiscord/themes`
+3. In Discord go into `Usersettings > Themes` and activate *Lunar*
 
 ### GooseMod
 Use their store
