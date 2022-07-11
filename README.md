@@ -37,11 +37,10 @@ Use their store
 3. Restart your client
 
 ## Gallery
-
-Desktop
-![Preview](assets/preview.png)
-Aliucord (Mobile)
-![Aliucord](assets/aliucord.png)
+<table>
+<td align="center" style="padding=0;width=50%;">Desktop<img src="assets/preview.png" /></td>
+<td align="center" style="padding=0;width=50%;">Aliucord (Mobile)<img src="assets/aliucord.png" /></td>
+</table>
 
 ## Team
 
