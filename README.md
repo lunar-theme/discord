@@ -6,6 +6,13 @@
 <p align="center">A minimal black and blue color scheme inspired by space 🚀</p>
 
 ## Usage
+### Aliucord (Android)
+1. Download the [Themer Plugin](https://github.com/Vendicated/AliucordPlugins/raw/builds/Themer.zip)
+2. Place the plugin `/storage/emulated/0/Aliucord/plugins`
+3. Download [this file](https://lunar-theme.github.io/discord/lunar.aliucord.json) (`ctrl` + `s` on the site)
+4. Place the theme into `/storage/emulated/0/Aliucord/themes`
+5. Restart your Aliucord to see the changes
+
 ### BetterDiscord
 1. Download [this file](https://lunar-theme.github.io/discord/lunar.theme.css) (`ctrl` + `s` on the site)
 2. Place the file into:
@@ -31,7 +38,10 @@ Use their store
 
 ## Gallery
 
+Desktop
 ![Preview](assets/preview.png)
+Aliucord (Mobile)
+![Aliucord](assets/aliucord.png)
 
 ## Team
 
