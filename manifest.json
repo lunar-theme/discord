@@ -1,0 +1,9 @@
+{
+    "icon": "assets/icon-rounded.png",
+    "name": "Lunar",
+    "description": "A minimal black and blue theme inspired by space 🚀",
+    "version": "0.1.0",
+    "author": "Pukima",
+    "license": "MIT",
+    "theme": "app.scss"
+}

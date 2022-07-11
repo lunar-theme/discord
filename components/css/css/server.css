@@ -1,0 +1,21 @@
+.homeIcon-r0w4ny {
+  background: url("https://github.com/lunar-theme/lunar-theme/raw/main/assets/icon-rounded.png") center/cover no-repeat;
+  min-width: 60px;
+  min-height: 60px;
+}
+
+.homeIcon-r0w4ny path {
+  fill: transparent;
+}
+
+.circleIconButton-1VxDrg {
+  color: var(--nebula);
+}
+
+.circleIconButton-1VxDrg.selected-2r1Hvo {
+  background-color: var(--nebula);
+}
+
+/*# sourceMappingURL=server.css.map */
+
+/*# sourceMappingURL=server.css.map */
