@@ -7,6 +7,14 @@
 
 - ✨ Add Discord Server [[ef7fef1](https://github.com/lunar-theme/discord/commit/ef7fef15a09e20190a3252fb5946aead1f0db10f)]
 
+### Changed
+
+- 💄 Better contrast for buttons (powercord-spotify) [[20200f6](https://github.com/lunar-theme/discord/commit/20200f60a554ac5c0bd9b1916bbd5bd4b4bf6590)]
+
+### Miscellaneous
+
+- ⚰️ Remove nested css folders [[a11f038](https://github.com/lunar-theme/discord/commit/a11f0387c9548d43bc9bebd560a2fb2e01aa02b6)]
+
 
 <a name="0.2.1"></a>
 ## 0.2.1 (2022-07-12)
