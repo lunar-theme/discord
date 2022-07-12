@@ -1,5 +1,13 @@
 # Changelog
 
+<a name="next"></a>
+## next
+
+### Added
+
+- ✨ Add Discord Server [[ef7fef1](https://github.com/lunar-theme/discord/commit/ef7fef15a09e20190a3252fb5946aead1f0db10f)]
+
+
 <a name="0.2.1"></a>
 ## 0.2.1 (2022-07-12)
 
