@@ -14,4 +14,11 @@
   background-color: var(--nebula);
 }
 
+.tabBarItem-3nPo4Z {
+  border-radius: 0 !important;
+}
+.tabBarItem-3nPo4Z:hover {
+  background-color: transparent !important;
+}
+
 /*# sourceMappingURL=server.css.map */

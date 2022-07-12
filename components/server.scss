@@ -9,11 +9,22 @@
     }
 }
 
-// BOTTOM BUTTONS
+// SERVER SIDEBAR
+// bottom buttons
 .circleIconButton-1VxDrg {
     color: var(--nebula);
 
     &.selected-2r1Hvo {
         background-color: var(--nebula);
+    }
+}
+
+// SERVER SETTINGS
+// Roles
+.tabBarItem-3nPo4Z {
+    border-radius: 0 !important;
+
+    &:hover {
+        background-color: transparent !important;
     }
 }
