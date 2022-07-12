@@ -2,8 +2,11 @@
     <img src="https://github.com/lunar-theme/lunar-theme/raw/main/assets/icon-rounded.png" alt="Lunar Logo" />
     <h2 align="center">Lunar for Discord</h2>
 </p>
-
-<p align="center">A minimal black and blue color scheme inspired by space 🚀</p>
+<p align="center">
+    A minimal black and blue color scheme inspired by space 🚀
+</p><p align="center">
+    <a href="https://discord.gg/xvj3t9TwFT" target="_blank" rel="external">Join the Discord<a>
+</p>
 
 ## Usage
 ### Aliucord (Android)
