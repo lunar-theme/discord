@@ -3,6 +3,10 @@
 <a name="0.2.1"></a>
 ## 0.2.1 (2022-07-12)
 
+### Added
+
+- ✨ Changelog [[fa5fdf5](https://github.com/lunar-theme/discord/commit/fa5fdf5cb87d303ad8802e8aa05bd9e003e4532d)]
+
 ### Fixed
 
 - 🐛 Fixed rounded Manage Role Tabs [[ab43d41](https://github.com/lunar-theme/discord/commit/ab43d41ccc7bb157c5c1592ffb79e2bdb2e28b7a)]
