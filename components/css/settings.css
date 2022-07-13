@@ -2,6 +2,22 @@
   background-color: var(--background-tertiary);
 }
 
+.guildsSection-30CJxX .cardWrapper-1bSePP, .guildsSection-30CJxX .card-2xlCYc {
+  border-radius: var(--border-radius, 2rem);
+}
+
+.card-16VQ8C {
+  border-radius: var(--border-radius, 2rem);
+}
+
+.skuCard-2Fnwet {
+  border-radius: var(--border-radius, 2rem);
+}
+
+.payment-2bOh4k, .paymentPane-ut5qKZ, .paginator-1eqD2g {
+  background-color: var(--background-secondary) !important;
+}
+
 .accountBtnInner-3ttD-i {
   border-radius: var(--border-radius, 2rem);
 }

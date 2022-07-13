@@ -74,6 +74,10 @@ rect[mask="url(#svg-mask-status-online-mobile)"] {
   border-radius: var(--border-radius, 2rem);
 }
 
+.button-y6hemj:focus-within .activeButtonChild-2hgLAO, .button-y6hemj:focus .activeButtonChild-2hgLAO, .button-y6hemj:hover .activeButtonChild-2hgLAO {
+  color: var(--strato, --interactive-active) !important;
+}
+
 .root-8LYsGj .item-3XjbnG {
   border-radius: 0 !important;
 }

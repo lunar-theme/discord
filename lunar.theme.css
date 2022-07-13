@@ -54,6 +54,7 @@
     --scrollbar-auto-thumb: var(--background-secondary);
     --scrollbar-auto-track: var(--background-secondary-alt);
     --scrollbar-thin-thumb: var(--background-secondary);
+    --text-brand: var(--interactive-normal);
     --toast-background: var(--background-secondary) !important;
     --toast-header: var(--background-tertiary) !important;
     --toast-contents: var(--background-primary) !important;
