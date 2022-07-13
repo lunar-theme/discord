@@ -98,6 +98,10 @@ rect[mask="url(#svg-mask-status-online-mobile)"] {
     color: var(--strato, --interactive-active) !important;
 }
 
+.buttonContainer-6W2Ep3 > button:disabled {
+    display: none;
+}
+
 
 // USER MODAL
 .root-8LYsGj {
