@@ -10,3 +10,14 @@
         }
     }
 }
+
+
+// GOOSEMOD
+// Topaz
+.topaz-editor > [role="tablist"] > div {
+    border-radius: 8px 0 0 0 !important;
+
+    &:not(:first-child) {
+        border-radius: 0 !important;
+    }
+}
