@@ -1,14 +1,16 @@
 # Changelog
 
-<a name="next"></a>
-## next
+<a name="0.2.2"></a>
+## 0.2.2 (2022-07-13)
 
 ### Added
 
+- ✨ More roundness and &quot;send button&quot; support [[5ac0a95](https://github.com/lunar-theme/discord/commit/5ac0a9594321c4311f87e4d3ac325297a1b9f7fa)]
 - ✨ Add Discord Server [[ef7fef1](https://github.com/lunar-theme/discord/commit/ef7fef15a09e20190a3252fb5946aead1f0db10f)]
 
 ### Changed
 
+- 💄 Remove send button when disabled [[4256c7b](https://github.com/lunar-theme/discord/commit/4256c7bfb32795e531eb1e5e5a89abefefdc2c69)]
 - 💄 Better contrast for buttons (powercord-spotify) [[20200f6](https://github.com/lunar-theme/discord/commit/20200f60a554ac5c0bd9b1916bbd5bd4b4bf6590)]
 
 ### Miscellaneous
