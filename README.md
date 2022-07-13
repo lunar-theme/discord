@@ -25,7 +25,13 @@
 3. In Discord go into `Usersettings > Themes` and activate *Lunar*
 
 ### GooseMod
-Use their store
+#### Use their store
+soon™️
+#### Use Topaz
+1. Go to the GooseMod Settings
+2. Under *Experimental* activate *Topaz*
+3. Go to the Topaz Tab in the Usersettings
+4. Type `https://github.com/lunar-theme/discord` into the field and press `ENTER`
 
 ### Powercord
 *Replace lowercase `powercord` with your path to powercord (where you cloned their repo)*
