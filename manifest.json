@@ -2,7 +2,7 @@
     "icon": "assets/icon-rounded.png",
     "name": "Lunar",
     "description": "A minimal black and blue theme inspired by space 🚀",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "author": "Pukima",
     "license": "GPL-3.0",
     "theme": "app.scss"
