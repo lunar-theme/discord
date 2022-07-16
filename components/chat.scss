@@ -76,6 +76,21 @@ rect[mask="url(#svg-mask-status-online-mobile)"] {
 }
 
 
+// EVENTS
+// event preview
+.tabBar-3lflCo > div {
+    border-radius: 0 !important;
+
+    &.selected-g-kMVV {
+        border-bottom-color: var(--background-accent) !important;
+
+        &:hover {
+            background-color: transparent !important;
+        }
+    }
+}
+
+
 // CODE
 // diff
 .hljs-addition, .hljs-keyword, .hljs-selector-tag {
