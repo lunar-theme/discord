@@ -3,19 +3,21 @@
 ## Officially Supported Mods
 ### How is the list structured?
 
-The list is sorted alphabetically. Below is also a table with more infos.
-|  Element |    Meaning     |
-|----------|----------------|
-| ⭐      | Popular Mod     |
-| 🌟      | Recommended Mod |
-| ✅      | Tested [(more info)](#testing)|
-| PLATFORM| The supported platform (Computer = Win, Linux & Mac)| 
+The list is sorted alphabetically and by platform. Below is also a table with more infos.
+| Element | Meaning     |
+|---------|-------------|
+| ⭐     | Popular Mod |
+| 🌟     | Recommended Mod |
+| ✅     | Tested [(more info)](#testing) |
 ----------------------------
 ### **The List**
+#### *Android*
 - 🌟✅ [Aliucord](#aliucord-android) (📱 Android)
+#### *iOS*
+- 🌟 [Enmity](#enmity) (📱 iOS)
+#### *Win, Mac & Linux*
 - ⭐ [BetterDiscord](#aliucord-android) (🖥️ Computer)
 - [BeautifulDiscord](#beautifuldiscord) (🖥️ Computer)
-- [Enmity](#enmity) (📱 iOS)
 - 🌟✅ [GooseMod](#goosemod) (🖥️ Computer)
 - ⭐✅ [Powercord](#powercord) (🖥️ Computer)
 - [Velocity](#velocity) (🖥️ Computer)
