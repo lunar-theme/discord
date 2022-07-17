@@ -26,9 +26,9 @@ The list is sorted alphabetically and by platform. Below is also a table with mo
 ## Aliucord (Android)
 *[back to top](#officially-supported-mods)*
 1. Download the [Themer Plugin](https://github.com/Vendicated/AliucordPlugins/raw/builds/Themer.zip)
-2. Place the plugin `/storage/emulated/0/Aliucord/plugins`
-3. Download [this file](https://lunar-theme.github.io/discord/lunar.aliucord.json) (`ctrl` + `s` on the site)
-4. Place the theme into `/storage/emulated/0/Aliucord/themes`
+2. Place the plugin into `/storage/emulated/0/Aliucord/plugins`
+3. Download [this file](https://lunar-theme.github.io/discord/mobile/aliucord/lunar.json)
+4. Place the file into `/storage/emulated/0/Aliucord/themes`
 5. Restart your Aliucord to see the changes
 
 
@@ -52,7 +52,13 @@ The list is sorted alphabetically and by platform. Below is also a table with mo
 
 
 ## Enmity
-soon™️
+*[back to top](#officially-supported-mods)*
+
+1. Copy this URL: `https://lunar-theme.github.io/discord/mobile/enmity/lunar.json`
+2. Inside Enmity go to `Usersettings > Themes`
+3. Click on the `+` icon
+4. Paste in the earlier copied URL
+5. Restart your Enmity to see the changes
 
 
 ## GooseMod
