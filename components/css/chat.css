@@ -62,6 +62,16 @@ rect[mask="url(#svg-mask-status-online-mobile)"] {
   background-color: var(--background-primary) !important;
 }
 
+.tabBar-3lflCo > div {
+  border-radius: 0 !important;
+}
+.tabBar-3lflCo > div.selected-g-kMVV {
+  border-bottom-color: var(--background-accent) !important;
+}
+.tabBar-3lflCo > div.selected-g-kMVV:hover {
+  background-color: transparent !important;
+}
+
 .hljs-addition, .hljs-keyword, .hljs-selector-tag {
   color: var(--nebula);
 }

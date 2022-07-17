@@ -1,11 +1,11 @@
 # Changelog
 
-<a name="next"></a>
-## next
+<a name="0.3.0"></a>
+## 0.3.0 (2022-07-17)
 
 ### Added
 
-- ✨ Add Enmity Support [[5ec586f](https://github.com/lunar-theme/discord/commit/5ec586fc62d1a3cda85c140e4dfb35d4ea85f93f)]
+- ✨ Added Enmity Support [[5ec586f](https://github.com/lunar-theme/discord/commit/5ec586fc62d1a3cda85c140e4dfb35d4ea85f93f)]
 - ✨ Added Topaz Support [[4283de9](https://github.com/lunar-theme/discord/commit/4283de922b144fd4415ade3d2802b30c59dac631)]
 
 ### Changed
@@ -20,7 +20,6 @@
 ### Miscellaneous
 
 - 📝 Overhaul Installation Guide [[8c5a646](https://github.com/lunar-theme/discord/commit/8c5a646ce973e3460940f028c67d67d0b13caeea)]
-- 🩹 Fix Topaz editor tabs [[dfcedc1](https://github.com/lunar-theme/discord/commit/dfcedc1f927058c365a80e966997c22a92fd543e)]
 
 
 <a name="0.2.2"></a>

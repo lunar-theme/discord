@@ -14,7 +14,7 @@ The list is sorted alphabetically and by platform. Below is also a table with mo
 #### *Android*
 - 🌟✅ [Aliucord](#aliucord-android) (📱 Android)
 #### *iOS*
-- 🌟 [Enmity](#enmity-ios) (📱 iOS)
+- 🌟✅ [Enmity](#enmity-ios) (📱 iOS)
 #### *Win, Mac & Linux*
 - ⭐ [BetterDiscord](#aliucord-android) (🖥️ Computer)
 - [BeautifulDiscord](#beautifuldiscord) (🖥️ Computer)
@@ -55,6 +55,7 @@ The list is sorted alphabetically and by platform. Below is also a table with mo
 
 ## Enmity (iOS)
 *[back to top](#officially-supported-mods)*
+> **Note** | Please be aware that Lightmode is not fully supported and some things are still unthemed. We try our best to address these bugs but please be patient.
 
 1. Copy this URL: `https://lunar-theme.github.io/discord/mobile/enmity/Lunar.json`
     - Want a newer version (might be unstable)? Copy this URL: `https://raw.githubusercontent.com/lunar-theme/discord/dev/mobile/enmity/Lunar.json` instead!

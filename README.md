@@ -13,8 +13,13 @@ Head over to [the installation page](INSTALLATION.md) (Spoiler: *We support A LO
 
 ## Gallery
 <table>
-<td align="center" style="padding=0;width=50%;">Desktop<img src="assets/preview.png" /></td>
-<td align="center" style="padding=0;width=50%;">Aliucord (Mobile)<img src="assets/aliucord.png" /></td>
+    <tr>
+        <td align="center" style="padding=0;width=50%;">Desktop<img src="assets/preview.png" /></td>
+    </tr>
+    <tr>
+        <td align="center" style="padding=0;width=50%;">Aliucord (Android)<img src="assets/aliucord.png" /></td>
+        <td align="center" style="padding=0;width=50%;">Enmity (iOS)<img src="assets/enmity.png" /></td>
+    </tr>
 </table>
 
 ## Team
