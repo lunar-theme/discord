@@ -1,5 +1,28 @@
 # Changelog
 
+<a name="next"></a>
+## next
+
+### Added
+
+- ✨ Add Enmity Support [[5ec586f](https://github.com/lunar-theme/discord/commit/5ec586fc62d1a3cda85c140e4dfb35d4ea85f93f)]
+- ✨ Added Topaz Support [[4283de9](https://github.com/lunar-theme/discord/commit/4283de922b144fd4415ade3d2802b30c59dac631)]
+
+### Changed
+
+- 🎨 Restructuring different Platforms [[1faa50f](https://github.com/lunar-theme/discord/commit/1faa50fd2aaa23c72894677f6005dcaca0ce0d36)]
+
+### Fixed
+
+- 🐛 Fix the tabbar in event modal (and maybe some more) [[efc1845](https://github.com/lunar-theme/discord/commit/efc184512d9d1499dfbd67829e8b706d5a9e317e)]
+- ✏️ We do support BD by now [[5b95c32](https://github.com/lunar-theme/discord/commit/5b95c32db3dad18b8fee0e1e3ab4d9d3549d8b01)]
+
+### Miscellaneous
+
+- 📝 Overhaul Installation Guide [[8c5a646](https://github.com/lunar-theme/discord/commit/8c5a646ce973e3460940f028c67d67d0b13caeea)]
+- 🩹 Fix Topaz editor tabs [[dfcedc1](https://github.com/lunar-theme/discord/commit/dfcedc1f927058c365a80e966997c22a92fd543e)]
+
+
 <a name="0.2.2"></a>
 ## 0.2.2 (2022-07-13)
 

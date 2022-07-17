@@ -13,6 +13,8 @@
         "BACKGROUND_SECONDARY_ALT": ["#252525", "#cecece"],
         "BACKGROUND_TERTIARY": ["#161616", "#bbc1c8"],
         "BACKGROUND_ACCENT": ["#0284e8", "#0284e8"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#303030", "#dfdfdf"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#202020", "#c9cbce"],
         "BACKGROUND_MODIFIER_ACTIVE": ["#02a3e8", "#02a3e8"],
         "BACKGROUND_MODIFIER_SELECTED": ["#0284e8", "#0284e8"],
         "CHANNELTEXTAREA_BACKGROUND": ["#202020", "#c9cbce"]

@@ -14,7 +14,7 @@ The list is sorted alphabetically and by platform. Below is also a table with mo
 #### *Android*
 - 🌟✅ [Aliucord](#aliucord-android) (📱 Android)
 #### *iOS*
-- 🌟 [Enmity](#enmity) (📱 iOS)
+- 🌟 [Enmity](#enmity-ios) (📱 iOS)
 #### *Win, Mac & Linux*
 - ⭐ [BetterDiscord](#aliucord-android) (🖥️ Computer)
 - [BeautifulDiscord](#beautifuldiscord) (🖥️ Computer)
@@ -53,11 +53,11 @@ The list is sorted alphabetically and by platform. Below is also a table with mo
 3. Be sure to redo the second step if Lunar gets updated. We recommend joining [our Discord server](https://discord.gg/xvj3t9TwFT) to know when we got updates.
 
 
-## Enmity
+## Enmity (iOS)
 *[back to top](#officially-supported-mods)*
 
 1. Copy this URL: `https://lunar-theme.github.io/discord/mobile/enmity/Lunar.json`
-    - Want a newer version (might be unstable)? Copy this URL: `https://raw.githubusercontent.com/lunar-theme/discord/dev/mobile/enmity/Lunar.json`!
+    - Want a newer version (might be unstable)? Copy this URL: `https://raw.githubusercontent.com/lunar-theme/discord/dev/mobile/enmity/Lunar.json` instead!
 2. Inside Enmity go to `Usersettings > Themes`
 3. Click on the `+` icon
 4. Paste in the earlier copied URL
