@@ -1,6 +1,13 @@
 {
     "name": "Lunar",
-    "author": "751092600890458203",
+    "description": "A minimal black and blue theme inspired by space 🚀",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Pukima",
+            "id": "751092600890458203"
+        }
+    ],
     "theme_color_map": {
         "BACKGROUND_PRIMARY": ["#303030", "#dfdfdf"],
         "BACKGROUND_SECONDARY": ["#202020", "#c9cbce"],
