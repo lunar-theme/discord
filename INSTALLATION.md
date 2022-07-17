@@ -56,8 +56,8 @@ The list is sorted alphabetically and by platform. Below is also a table with mo
 ## Enmity
 *[back to top](#officially-supported-mods)*
 
-1. Copy this URL: `https://lunar-theme.github.io/discord/mobile/enmity/lunar.json`
-    - Want a newer version (might be unstable)? Copy this URL: `https://raw.githubusercontent.com/lunar-theme/discord/dev/mobile/enmity/lunar.json`!
+1. Copy this URL: `https://lunar-theme.github.io/discord/mobile/enmity/Lunar.json`
+    - Want a newer version (might be unstable)? Copy this URL: `https://raw.githubusercontent.com/lunar-theme/discord/dev/mobile/enmity/Lunar.json`!
 2. Inside Enmity go to `Usersettings > Themes`
 3. Click on the `+` icon
 4. Paste in the earlier copied URL
@@ -83,7 +83,7 @@ soon™️
 *Replace lowercase `powercord` with your path to powercord (where you cloned their repo)*
 1. `cd powercord/src/Powercord/themes`
 2. `git clone https://github.com/lunar-theme/discord`
-    - Want a newer version? Run `git checkout dev` afterwards.
+    - Want a newer version? Run `git checkout origin/dev` afterwards.
 3. Restart your client
 
 
