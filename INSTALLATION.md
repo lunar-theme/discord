@@ -36,6 +36,7 @@ The list is sorted alphabetically and by platform. Below is also a table with mo
 *[back to top](#officially-supported-mods)*
 
 1. Download [this file](https://lunar-theme.github.io/discord/lunar.theme.css) (`ctrl` + `s` on the site)
+    - Want a newer version (might be unstable)? Download [this file](https://raw.githubusercontent.com/lunar-theme/discord/dev/lunar.theme.css)!
 2. Place the file into:
     - Windows: `%AppData%\betterdiscord\themes`
     - Linux: `~/.config/BetterDiscord/themes`
@@ -48,6 +49,7 @@ The list is sorted alphabetically and by platform. Below is also a table with mo
 
 1. Follow their [Usage Guide](https://github.com/leovoel/BeautifulDiscord#usage)
 2. Place the content of [lunar.theme.css](lunar.theme.css) in your earlier made css file
+    - Want a newer version (might be unstable)? Download use [this file](https://raw.githubusercontent.com/lunar-theme/discord/dev/lunar.theme.css)
 3. Be sure to redo the second step if Lunar gets updated. We recommend joining [our Discord server](https://discord.gg/xvj3t9TwFT) to know when we got updates.
 
 
@@ -55,6 +57,7 @@ The list is sorted alphabetically and by platform. Below is also a table with mo
 *[back to top](#officially-supported-mods)*
 
 1. Copy this URL: `https://lunar-theme.github.io/discord/mobile/enmity/lunar.json`
+    - Want a newer version (might be unstable)? Copy this URL: `https://raw.githubusercontent.com/lunar-theme/discord/dev/mobile/enmity/lunar.json`!
 2. Inside Enmity go to `Usersettings > Themes`
 3. Click on the `+` icon
 4. Paste in the earlier copied URL
@@ -80,6 +83,7 @@ soon™️
 *Replace lowercase `powercord` with your path to powercord (where you cloned their repo)*
 1. `cd powercord/src/Powercord/themes`
 2. `git clone https://github.com/lunar-theme/discord`
+    - Want a newer version? Run `git checkout dev` afterwards.
 3. Restart your client
 
 
@@ -89,6 +93,7 @@ soon™️
 1. Go to *Usersettings* > *Themes*
 2. In the *Remote URL* box type in:
     - `https://lunar-theme.github.io/discord/lunar.theme.css`
+    - For a newer version (might be unstable): `https://raw.githubusercontent.com/lunar-theme/discord/dev/lunar.theme.css`
 3. Click on *Load Remote Theme*
 4. Activate *Lunar* in the same page
 
@@ -99,6 +104,7 @@ soon™️
 *Replace `vizality` with your path to Vizality (where you cloned their repo)*
 1. `cd vizality/addons/themes`
 2. `git clone https://github.com/lunar-theme/discord`
+    - Want a newer version? Run `git checkout origin/dev` afterwards.
 3. Restart your client
 
 
