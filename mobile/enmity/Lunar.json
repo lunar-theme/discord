@@ -20,6 +20,9 @@
         "CHANNELTEXTAREA_BACKGROUND": ["#202020", "#c9cbce"]
     },
     "colours": {
-        "PRIMARY_DARK": "#303030"
+        "PRIMARY_DARK": ["#303030", "#dfdfdf"]
+    },
+    "unsafe_colors": {
+        "CHAT_GREY": ["#202020", "#c9cbce"]
     }
 }
