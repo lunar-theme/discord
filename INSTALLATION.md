@@ -49,7 +49,7 @@ The list is sorted alphabetically and by platform. Below is also a table with mo
 
 1. Follow their [Usage Guide](https://github.com/leovoel/BeautifulDiscord#usage)
 2. Place the content of [lunar.theme.css](lunar.theme.css) in your earlier made css file
-    - Want a newer version (might be unstable)? Download use [this file](https://raw.githubusercontent.com/lunar-theme/discord/dev/lunar.theme.css)
+    - Want a newer version (might be unstable)? Use [this file](https://raw.githubusercontent.com/lunar-theme/discord/dev/lunar.theme.css) instead!
 3. Be sure to redo the second step if Lunar gets updated. We recommend joining [our Discord server](https://discord.gg/xvj3t9TwFT) to know when we got updates.
 
 
