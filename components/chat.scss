@@ -121,15 +121,9 @@ rect[mask="url(#svg-mask-status-online-mobile)"] {
 // USER MODAL
 .root-8LYsGj {
     // tab buttons
-    .item-3XjbnG {
-        border-radius: 0 !important;
-
+    .tabBarItem-30Te4- {
         &.selected-g-kMVV {
             border-bottom-color: var(--background-accent) !important;
-
-            &:hover {
-                background-color: transparent !important;
-            }
         }
     }
 }
