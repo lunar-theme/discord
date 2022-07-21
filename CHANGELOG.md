@@ -1,5 +1,17 @@
 # Changelog
 
+<a name="0.3.1"></a>
+## 0.3.1 (2022-07-21)
+
+### Added
+
+- ✨ Support for new OFFER badge [[0f0e718](https://github.com/lunar-theme/discord/commit/0f0e71802192d6d60655ae312d07f3faec6b3042)]
+
+### Fixed
+
+- 🐛 More tabbar fixes [[fd1a4fc](https://github.com/lunar-theme/discord/commit/fd1a4fcc8132fcb7d290cce0658ec6ad0551b66d)]
+
+
 <a name="0.3.0"></a>
 ## 0.3.0 (2022-07-17)
 
